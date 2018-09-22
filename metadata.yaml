@@ -1,11 +1,16 @@
 _repo: Celtic-Folklore-Welsh-and-Manx-Volume-1-of-2_55025
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55025-h/images/new-cover-tn.jpg
 creator:
   author:
     agent_name: Rhys, John
     gutenberg_agent_id: '48154'
     url: http://www.gutenberg.org/2009/agents/48154
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55025#Celtic-Folklore-Welsh-and-Manx-Volume-1-of-2
 gutenberg_issued: '2017-07-02'
 gutenberg_type: Text
 identifiers:
